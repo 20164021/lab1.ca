@@ -18,3 +18,5 @@ end xor_arc;
 
 
 -- Pirmas Laboratorinis darbas
+
+--Padarytas pakeitimas
