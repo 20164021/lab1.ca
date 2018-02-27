@@ -20,3 +20,5 @@ end xor_arc;
 -- Pirmas Laboratorinis darbas
 
 --Padarytas pakeitimas
+--Padarytas dvigubas pakeitimas
+--Juos atliko Justas Straksys EF 16/2
